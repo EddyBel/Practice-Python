@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Virtual venv
+/dev
+/DEV
+/Dev
+/PRACTICE-PYTHON
+/practice-python
